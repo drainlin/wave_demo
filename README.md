@@ -1,6 +1,6 @@
 # wave_demo
 
-A Flutter wave_demo likes Playstaion XMB style.
+A Flutter demo in the style of Playstion XBM
 
 ## Screenshot
 
